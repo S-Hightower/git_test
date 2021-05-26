@@ -1,0 +1,1 @@
+This is Shawna's first git project!
